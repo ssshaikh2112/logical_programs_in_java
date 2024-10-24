@@ -4,7 +4,7 @@ This repository contains a collection of logical programs written in Java, cover
 
 # How to Use
 * Clone or download the repository to your local machine.
-* Open the project in your preferred Java IDE (e.g. Eclipse, IntelliJ IDEA, NetBeans).
+* Open the project in your preferred Java IDE (e.g. Eclipse, IntelliJ IDEA , etc).
 * Run each program individually to see the output.
 * Modify the input values to test different scenarios.
 
