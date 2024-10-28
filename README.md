@@ -1,4 +1,4 @@
-# logical_programs_in_java
+# Logical_programs_in_java
 ## Logical Programs in Java
 This repository contains a collection of logical programs written in Java, covering a range of topics and problem domains. The programs are designed to demonstrate various programming concepts, algorithms, and techniques, and can be used as a reference or learning resource for Java developers.
 
