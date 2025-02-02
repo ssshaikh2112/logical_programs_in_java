@@ -10,7 +10,6 @@ class SwapNumWithTemp
 		System.out.println(num2);
 
 		System.out.println();
-
 		System.out.println("After Swapping : ");
 
 		temp = num1;
