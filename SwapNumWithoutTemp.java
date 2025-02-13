@@ -5,7 +5,6 @@ class SwapNumWithoutTemp
 		
 		int num2=7;
 		
-
 		System.out.println("Before Swapping : ");
 		System.out.println(num1);
 		System.out.println(num2);
