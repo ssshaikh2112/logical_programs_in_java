@@ -10,6 +10,7 @@ Here is a sample run:
 Enter a number between 0 and 1000:999
 The sum of the digits is 27
 
+
 */
   public static void main(String[] args)
    {
