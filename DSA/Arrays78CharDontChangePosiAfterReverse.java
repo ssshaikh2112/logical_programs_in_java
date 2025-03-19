@@ -12,6 +12,7 @@ public class Arrays78CharDontChangePosiAfterReverse
 			if(str.charAt(i)==str.charAt(j))
 			{
 				count++;
+				
 			}	
 		}
 		System.out.println(count);
