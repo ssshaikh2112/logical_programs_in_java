@@ -5,11 +5,6 @@
 class Student
 {
 
-
-
-
-
-
 	
 	int id;
 	
@@ -46,6 +41,7 @@ class StudentDriver
 	}
 
 }
+
 
 
 
