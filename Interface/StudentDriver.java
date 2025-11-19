@@ -4,6 +4,9 @@
 
 class Student
 {
+
+
+	
 	int id;
 	String name;
 	String edu;
@@ -36,6 +39,7 @@ class StudentDriver
 	}
 
 }
+
 
 
 
