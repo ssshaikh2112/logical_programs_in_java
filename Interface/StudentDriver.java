@@ -10,9 +10,6 @@ class Student
 	int yop;
 	Student(int id , String name , String edu ,int yop)
 	{
-
-
-
 		
 		this.id=id;
 		this.name=name;
@@ -41,6 +38,7 @@ class StudentDriver
 	}
 
 }
+
 
 
 
