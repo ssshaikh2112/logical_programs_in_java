@@ -17,8 +17,6 @@ class Student
 
 		
 		this.edu=edu;
-
-
 		
 		this.yop=yop;
 
@@ -45,6 +43,7 @@ class StudentDriver
 	}
 
 }
+
 
 
 
