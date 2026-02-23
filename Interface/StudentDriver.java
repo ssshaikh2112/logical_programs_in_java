@@ -15,8 +15,6 @@ class Student
 		this.id=id;
 		this.name=name;
 		this.edu=edu;
-
-		
 		
 		this.yop=yop;
 	}
@@ -47,6 +45,7 @@ class StudentDriver
 
 
 		
+
 
 
 
