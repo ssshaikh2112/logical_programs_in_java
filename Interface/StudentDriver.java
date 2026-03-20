@@ -4,9 +4,6 @@
 
 class Student
 {
-
-
-
 	
 	int id;
 	
