@@ -12,6 +12,9 @@ class Student
 
 	
 	int yop;
+
+
+	
 	
 	Student(int id , String name , String edu ,int yop)
 	{
