@@ -25,8 +25,6 @@ class Student
 		
 		this.yop=yop;
 
-
-
 	}
 	@Override
 	public String toString()
