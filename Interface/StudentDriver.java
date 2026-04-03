@@ -10,7 +10,6 @@ class Student
 	String name;
 	String edu;
 
-	
 	int yop;
 	
 	
