@@ -26,7 +26,6 @@ class Student
 		
 
 
-		
 		this.yop=yop;
 
 	}
