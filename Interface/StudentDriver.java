@@ -26,8 +26,7 @@ class Student
 		this.name=name;
 		this.edu=edu;
 
-		
-
+	
 
 		this.yop=yop;
 
