@@ -18,7 +18,6 @@ class Student
 
 	
 	
-	
 	Student(int id , String name , String edu ,int yop)
 	{
 		this.id=id;
