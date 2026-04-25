@@ -18,6 +18,8 @@ class Student
 		
 		this.name=name;
 		this.edu=edu
+
+
 			
 
 
