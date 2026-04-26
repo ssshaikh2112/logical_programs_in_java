@@ -20,8 +20,7 @@ class Student
 		this.edu=edu
 
 
-			
-
+		
 
 		this.yop=yop;
 
