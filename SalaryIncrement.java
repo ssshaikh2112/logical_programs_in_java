@@ -16,6 +16,7 @@ class SalaryIncrement
 			if(score>=90)
 			{
 				System.out.println("Previous Salary : "+salary);
+				
 				salary=salary+((salary/100)*3);
 				System.out.println("Incremented salary by 3% is : "+salary+"rs.");
 			}
