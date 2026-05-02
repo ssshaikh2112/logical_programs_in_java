@@ -23,6 +23,8 @@ class SalaryIncrement
 				
 			else
 
+
+				
 				
 			{
 				System.out.println("Previous Salary : "+salary);
