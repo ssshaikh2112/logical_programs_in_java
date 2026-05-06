@@ -23,8 +23,6 @@ class SalaryIncrement
 
 				
 			else
-
-				
 			{
 				System.out.println("Previous Salary : "+salary);
 				salary=salary+((salary/100)*1);
