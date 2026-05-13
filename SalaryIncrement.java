@@ -17,7 +17,6 @@ class SalaryIncrement
 
 
 
-
 		
 		if(score>0 && score<100)
 		{
