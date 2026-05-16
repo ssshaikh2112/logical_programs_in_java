@@ -6,6 +6,7 @@ class SalaryIncrement
 	{
 
 
+
 		Scanner scan=new Scanner(System.in);
 		System.out.println("Enter Your Salary : ");
 		double salary=scan.nextDouble();
