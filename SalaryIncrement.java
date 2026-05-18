@@ -15,8 +15,6 @@ class SalaryIncrement
 		int score =scan.nextInt();
 
 
-
-
 		if(score>0 && score<100)
 		{
 			if(score>=90)
