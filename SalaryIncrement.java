@@ -11,7 +11,6 @@ class SalaryIncrement
 
 		System.out.println("Enter Your Score : ");
 		int score =scan.nextInt();
-
 		
 		if(score>0 && score<100)
 			
