@@ -19,7 +19,6 @@ class SalaryIncrement
 			
 		{
 			
-			
 			if(score>=90)
 			{
 				System.out.println("Previous Salary : "+salary);
