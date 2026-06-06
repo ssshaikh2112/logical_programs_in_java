@@ -1,6 +1,4 @@
 import java.util.Scanner;
-
-
 class SalaryIncrement
 {
 	public static void main(String[] args) 
