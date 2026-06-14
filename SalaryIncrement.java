@@ -28,7 +28,6 @@ class SalaryIncrement
 				salary=salary+((salary/100)*1);
 				System.out.println("Incremented salary by 1% is : "+salary+"rs.");
 			}
-
 		}
 		else
 		{
