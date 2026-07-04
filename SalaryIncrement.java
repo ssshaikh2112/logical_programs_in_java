@@ -20,7 +20,6 @@ class SalaryIncrement
 				System.out.println("Incremented salary by 3% is : "+salary+"rs.");
 			}
 
-				
 			else
 				
 			{
