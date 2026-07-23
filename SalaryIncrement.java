@@ -30,7 +30,6 @@ class SalaryIncrement
 			}
 		}
 
-			
 		else
 	
 		{
