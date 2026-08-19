@@ -17,7 +17,6 @@ class SalaryIncrement
 				
 			{
 
-
 				
 				System.out.println("Previous Salary : "+salary);
 				
