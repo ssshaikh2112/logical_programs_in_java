@@ -3,6 +3,7 @@
 This repository contains a collection of logical programs written in Java, covering a range of topics and problem domains. The programs are designed to demonstrate various programming concepts, algorithms, and techniques, and can be used as a reference or learning resource for Java developers.
 
 # How to Use
+
 * Clone or download the repository to your local machine.
 * Open the project in your preferred Java IDE (e.g. Eclipse, IntelliJ IDEA , etc).
 * Run each program individually to see the output.
