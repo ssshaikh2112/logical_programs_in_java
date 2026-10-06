@@ -36,7 +36,7 @@ class SalaryIncrement
 
 			
 		else
-		
+	
 			
 		{
 			System.out.println("Do the Calculations...");
