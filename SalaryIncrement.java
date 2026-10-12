@@ -34,7 +34,7 @@ class SalaryIncrement
 			}
 		}
 
-	
+
 		else
 	
 			
