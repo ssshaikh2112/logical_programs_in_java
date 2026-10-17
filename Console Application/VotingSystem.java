@@ -5,6 +5,7 @@ class VotingSystem
 	// at initial all parties has 0 votes
 	static int bpl , cpl , amd , ssp , nopp;
 
+	
 	public static void main(String[] args) 
 	{
 		Scanner scan =new Scanner(System.in);
