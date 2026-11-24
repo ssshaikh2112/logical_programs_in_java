@@ -3,7 +3,6 @@ package arrays;
 public class Arrays78CharDontChangePosiAfterReverse 
 {
 
-
 	public static void main(String[] args) 
 	{
 		String str="alphxxdida";
